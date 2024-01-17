@@ -61,7 +61,17 @@
 	<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 	<a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 	</p>
+<h3 align=left">📊 GitHub Stats:</h3>
+	<img src="https://github-readme-stats.vercel.app/api?username=CASURIEL&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
+  	<img src="https://github-readme-streak-stats.herokuapp.com/?user=CASURIEL&theme=radical&hide_border=false" alt="GitHub Streak Stats"/><br/>
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CASURIEL&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/><br/>
+
+<h3 align=left">✍️ Random Dev Quote:</h3>
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+   
 <!---
 CASURIEL/CASURIEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
