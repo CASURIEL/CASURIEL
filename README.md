@@ -6,7 +6,7 @@
 	<img src="https://komarev.com/ghpvc/?username=CASURIELbb&color=blue&style=for-the-badge" alt="Profile views"/>
 	<img src="https://img.shields.io/github/followers/CASURIEL?style=for-the-badge&logo=github&color=blue" alt="Github followers"/>
   <a href="https://www.linkedin.com/in/zuriel-casuriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
-  <a href="https://www.instagram.com/ZUCASU" target="_blank">  <img src="https://img.shields.io/badge/Follow-%40ZUCASU-E4405F?style=for-the-badge&logo=instagram" alt="Instagram followers"/></a>
+  <a href="https://www.instagram.com/ZUCASU" target="_blank"><img src="https://img.shields.io/badge/Follow-%40ZUCASU-E4405F?style=for-the-badge&logo=instagram" alt="Instagram followers"/></a>
 	  <a href="mailto:zurielc.tecnologia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
 	<img src="https://img.shields.io/twitter/follow/ZUCASU?style=for-the-badge&logo=twitter&color=blue" alt="Twitter followers"/>   
   <br>
@@ -23,18 +23,13 @@
 <br>
 <h3>About Me</h3>
 <div align="text-align">    
-🌮 I´m Mexican and enthusiast and passionate about technology 🌐💻🖥️🖱️, space 🚀🛰️🌌, and sciences 🧪🔭🧬. Open-source advocate, cybersecurity enthusiast, and knowledge disseminator.
-<br>
-🎓 I hold a Bachelor's degree in Business Administration and I am a self-taught Computer Systems Engineering apprentice. Currently pursuing a Master's degree in Data Science and Artificial Intelligence from the Miguel de Cervantes European Global University.
-<br>
-💻 I have experience working with APIs, Backend, Frontend, Libraries, and Fintech, as well as managing MySQL or PostgreSQL databases. For local WordPress website deployment, I rely on the Laragon tool. I work in Cloudflare technologies, including Cloudflare Registrar, domain DNS management, and Cloudflare Pages. 🌐🛠️
-<br>
-🚀 I enjoy crafting new projects that bridge technology and business realms, contributing to the ever-evolving landscape of possibilities in the digital sphere. Let's build the future together! 🌟✨
-</div>
-<br>
-<div align="center"><h3>Crypto & Web3</h3>
-	Passionate about and actively involved in cryptocurrencies and web3 technology
-</div>
+	<ul>
+	<li><a>🌮 I´m Mexican and enthusiast and passionate about technology 🌐💻🖥️🖱️, space 🚀🛰️🌌, and sciences 🧪🔭🧬. Open-source advocate, cybersecurity enthusiast, and knowledge disseminator.
+</a></li><br>
+	<li><a>🎓 I hold a Bachelor's degree in Business Administration and I am a self-taught Computer Systems Engineering apprentice. Currently pursuing a Master's degree in Data Science and Artificial Intelligence from the Miguel de Cervantes European Global University. </a></li><br>
+	<li><a>💻 Specializing in Data Science and Artificial Intelligence for Business, I excel in crafting and implementing machine learning models. With a strong programming background, I've worked on APIs, Backend, Frontend, and various libraries. My fintech expertise includes managing MySQL and PostgreSQL databases. For local WordPress deployments, I use the Laragon tool. Proficient in Cloudflare technologies, I handle tasks from Cloudflare Registrar to domain DNS management and Cloudflare Pages.. 🌐🛠️ </a></li><br>
+	<li><a>🚀 I enjoy crafting new projects that bridge technology and business realms, contributing to the ever-evolving landscape of possibilities in the digital sphere. Let's build the future together! 🌟✨ </a></li>
+	</ul></div>
 <div align="left">
 	<ul>	
 	<li><b>- [BTC](#) 🌐</b></li>
