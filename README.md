@@ -9,18 +9,20 @@
   <a href="https://www.instagram.com/ZUCASU" target="_blank">  <img src="https://img.shields.io/badge/Follow-%40ZUCASU-E4405F?style=for-the-badge&logo=instagram" alt="Instagram followers"/></a>
 	<img src="https://img.shields.io/twitter/follow/ZUCASU?style=for-the-badge&logo=twitter&color=blue" alt="Twitter followers"/>   
   <br>
+	<br>
   <a>👥[BTC](#) | [USDT-TROY20](#) </a>
 </div>
+<br>
+<h3>Basic Information</h3>
 <ul>
-  <li><b>👤 Name:  </b> Zuriel Casco </li>
+  <li><b>👤 Name:  </b> Mr. Zuriel E. Casco </li>
   <li><b>😄 Pronouns: </b>  He/His </li>
-  <ul><li><b>😄 'My friends call me 'Zu' 😊</li></ul>
+  <ul><li><b> 'My friends call me 'Zu' 😊</li></ul>
   <li><b>📍 Location:  </b> Puebla City 🇲🇽 </li>
   <li><b>📣 Languages: </b>  English & Spanish </li>
 </ul>
 <br>
 <h3>About Me</h3>
-<br>
 <div align="text-align">    
 🌮 I´m Mexican and enthusiast and passionate about technology 🌐💻🖥️🖱️, space 🚀🛰️🌌, and sciences 🧪🔭🧬. Open-source advocate, cybersecurity enthusiast, and knowledge disseminator.
 
