@@ -33,6 +33,24 @@
 🚀 I enjoy crafting new projects that bridge technology and business realms, contributing to the ever-evolving landscape of possibilities in the digital sphere. Let's build the future together! 🌟✨
 </div>
 <br>
+<h3>Crypto & Web3</h3>
+<div align="center">
+	Passionate about and actively involved in cryptocurrencies and web3 technology
+</div>
+<div align="left">
+	<ul>	
+	<li><b>- [BTC](#) 🌐</b></li>
+	<li><b>- [ETH](#) 💎</b></li>
+	<li><b>- [USDT-TROY20](#) 💵</b></li>
+	<li><b>- [USDC](#) 💲</b></li>
+	<li><b>- [DAI](#) 💲</b></li>
+	<li><b>- [BCH](#) ₿</b></li>
+	<li><b>- [LTC](#) 🚀</b></li>
+	<li><b>- [XRP](#) 🌊</b></li>
+	<li><b>- [ADA](#) 🚴</b></li>
+	</ul>
+</div>
+<br>
 <h3>Projects (public)</h3>
 <div align="left">
 🎮 ##Showcasing : [List of your Recent Projects to exchange ideas] 🚀
