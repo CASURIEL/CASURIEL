@@ -1,5 +1,7 @@
 ## Hey, 👋 I´m ZURIEL CASCO | ZUCASU or CASURIEL
-![Header](Images/CASURIEL.png)<h3> Social Media </h3>
+### I envision wealth and success through my technology project
+![Header](CASURIEL.png)
+<h3> Social Media </h3>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=CASURIELbb&color=blue&style=for-the-badge" alt="Profile views"/>
 	<img src="https://img.shields.io/github/followers/CASURIEL?style=for-the-badge&logo=github&color=blue" alt="Github followers"/>
@@ -9,8 +11,6 @@
   <br>
   <a>👥[BTC](#) | [USDT-TROY20](#) </a>
 </div>
-
-### I envision wealth and success through my technology project
 <ul>
   <li><b>👤 Name:  </b> Zuriel Casco </li>
   <li><b>😄 Pronouns: </b>  He/His </li>
@@ -19,7 +19,7 @@
   <li><b>📣 Languages: </b>  English & Spanish </li>
 </ul>
 <br>
-<h3> About Me </h3>
+<h3>About Me</h3>
 <br>
 <div align="text-align">    
 🌮 I´m Mexican and enthusiast and passionate about technology 🌐💻🖥️🖱️, space 🚀🛰️🌌, and sciences 🧪🔭🧬. Open-source advocate, cybersecurity enthusiast, and knowledge disseminator.
@@ -31,8 +31,9 @@
 🚀 I enjoy crafting new projects that bridge technology and business realms, contributing to the ever-evolving landscape of possibilities in the digital sphere. Let's build the future together! 🌟✨
 </div>
 <br>
+<h3>Projects (public)</h3>
 <div align="left">
-🎮 ##Showcasing Projects (public): [List of your Recent Projects to exchange ideas] 🚀
+🎮 ##Showcasing : [List of your Recent Projects to exchange ideas] 🚀
   <div>
   - [####](https://dominio.com/) Website that ####, available on [GitHub](https://github.com/CASURIEL).
 </div></div>
