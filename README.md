@@ -24,7 +24,7 @@
 ### About Me
 <ul>
   <li><a>🌮 Mexican technology enthusiast and passionate about 🌐💻🖥️🖱️, space 🚀🛰️🌌, and sciences 🧪🔭🧬. Open-source advocate, cybersecurity enthusiast, and knowledge disseminator.</a></li><br>
-  <li><a>🎓 Bachelor's degree in Business Administration and self-taught Computer Systems Engineering apprentice. Currently pursuing a Master's degree in Data Science and Artificial Intelligence from the Miguel de Cervantes European Global University. </a></li><br>
+  <li><a>🎓 I hold a Bachelor's degree in Business Administration and am a self-taught Computer Systems Engineering apprentice. Currently, I'm on the exciting journey of pursuing a Master's degree in Data Science and Artificial Intelligence from the Miguel de Cervantes European Global University. 🚀✨ </a></li><br>
   <li><a>💻 Specializing in Data Science and Artificial Intelligence for Business, I excel in crafting and implementing machine learning models. Strong programming background, working on APIs, Backend, Frontend, and various libraries. Fintech expertise includes managing MySQL and PostgreSQL databases. For local WordPress deployments, I use the Laragon tool. Proficient in Cloudflare technologies, handling tasks from Cloudflare Registrar to domain DNS management and Cloudflare Pages. 🌐🛠️ </a></li><br>
   <li><a>🚀 Enjoy crafting new projects that bridge technology and business realms, contributing to the ever-evolving landscape of possibilities in the digital sphere. Let's build the future together! 🌟✨ </a></li>
 </ul><br>
