@@ -9,8 +9,6 @@
   <a href="https://www.instagram.com/ZUCASU" target="_blank">  <img src="https://img.shields.io/badge/Follow-%40ZUCASU-E4405F?style=for-the-badge&logo=instagram" alt="Instagram followers"/></a>
 	<img src="https://img.shields.io/twitter/follow/ZUCASU?style=for-the-badge&logo=twitter&color=blue" alt="Twitter followers"/>   
   <br>
-	<br>
-  <a>👥[BTC](#) | [USDT-TROY20](#) </a>
 </div>
 <br>
 <h3>Basic Information</h3>
@@ -25,27 +23,24 @@
 <h3>About Me</h3>
 <div align="text-align">    
 🌮 I´m Mexican and enthusiast and passionate about technology 🌐💻🖥️🖱️, space 🚀🛰️🌌, and sciences 🧪🔭🧬. Open-source advocate, cybersecurity enthusiast, and knowledge disseminator.
-
+<br>
 🎓 I hold a Bachelor's degree in Business Administration and I am a self-taught Computer Systems Engineering apprentice. Currently pursuing a Master's degree in Data Science and Artificial Intelligence from the Miguel de Cervantes European Global University.
-
-💻 I have experience working with APIs, Backend, Frontend, Libraries, and Fintech, as well as managing MySQL or PostgreSQL databases. For local WordPress website deployment, I rely on the Laragon tool. I specialize in Cloudflare technologies, including Cloudflare Registrar, domain DNS management, and Cloudflare Pages. 🌐🛠️
-
+<br>
+💻 I have experience working with APIs, Backend, Frontend, Libraries, and Fintech, as well as managing MySQL or PostgreSQL databases. For local WordPress website deployment, I rely on the Laragon tool. I work in Cloudflare technologies, including Cloudflare Registrar, domain DNS management, and Cloudflare Pages. 🌐🛠️
+<br>
 🚀 I enjoy crafting new projects that bridge technology and business realms, contributing to the ever-evolving landscape of possibilities in the digital sphere. Let's build the future together! 🌟✨
 </div>
 <br>
-<h3>Crypto & Web3</h3>
-<div align="center">
+<div align="center"><h3>Crypto & Web3</h3>
 	Passionate about and actively involved in cryptocurrencies and web3 technology
 </div>
 <div align="left">
 	<ul>	
 	<li><b>- [BTC](#) 🌐</b></li>
 	<li><b>- [ETH](#) 💎</b></li>
-	<li><b>- [USDT-TROY20](#) 💵</b></li>
-	<li><b>- [USDC](#) 💲</b></li>
+	<li><b>- [USDT-troy20](#) 💵</b></li>
+	<li><b>- [USDC-](#) 💲</b></li>
 	<li><b>- [DAI](#) 💲</b></li>
-	<li><b>- [BCH](#) ₿</b></li>
-	<li><b>- [LTC](#) 🚀</b></li>
 	<li><b>- [XRP](#) 🌊</b></li>
 	<li><b>- [ADA](#) 🚴</b></li>
 	</ul>
