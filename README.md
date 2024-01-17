@@ -7,6 +7,7 @@
 	<img src="https://img.shields.io/github/followers/CASURIEL?style=for-the-badge&logo=github&color=blue" alt="Github followers"/>
   <a href="https://www.linkedin.com/in/zuriel-casuriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
   <a href="https://www.instagram.com/ZUCASU" target="_blank">  <img src="https://img.shields.io/badge/Follow-%40ZUCASU-E4405F?style=for-the-badge&logo=instagram" alt="Instagram followers"/></a>
+	  <a href="mailto:zurielc.tecnologia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
 	<img src="https://img.shields.io/twitter/follow/ZUCASU?style=for-the-badge&logo=twitter&color=blue" alt="Twitter followers"/>   
   <br>
 </div>
@@ -14,7 +15,7 @@
 <h3>Basic Information</h3>
 <ul>
   <li><b>👤 Name:  </b> Mr. Zuriel E. Casco </li>
-  <li><b>😄 Pronouns: </b>  He/His </li>
+  <li><b>😄 Pronouns: </b>  He/Him </li>
   <ul><li><b> 'My friends call me 'Zu' 😊</li></ul>
   <li><b>📍 Location:  </b> Puebla City 🇲🇽 </li>
   <li><b>📣 Languages: </b>  English & Spanish </li>
